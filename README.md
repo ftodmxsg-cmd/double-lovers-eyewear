@@ -6,7 +6,14 @@
 
 An AI-powered eyewear shopping experience with virtual stylist powered by Google Gemini AI and integrated with Shopify.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1fexTlBxvfKjelRcYAL5PkPuRusauybH1
+[![Live Site](https://img.shields.io/badge/Live-double--lovers--eyewear.vercel.app-blue?style=for-the-badge)](https://double-lovers-eyewear.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-ftodmxsg--cmd%2Fdouble--lovers--eyewear-black?style=for-the-badge&logo=github)](https://github.com/ftodmxsg-cmd/double-lovers-eyewear)
+
+## 🔗 Links
+
+- **Live Website:** https://double-lovers-eyewear.vercel.app
+- **GitHub Repository:** https://github.com/ftodmxsg-cmd/double-lovers-eyewear
+- **AI Studio:** https://ai.studio/apps/drive/1fexTlBxvfKjelRcYAL5PkPuRusauybH1
 
 ## Prerequisites
 
