@@ -1,0 +1,8 @@
+
+{
+  "name": "DOUBLE LOVERS Eyewear",
+  "description": "Premium eyewear brand with minimalist layout and AI virtual stylist, inspired by doublelovers.com.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
